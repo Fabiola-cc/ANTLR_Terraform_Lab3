@@ -1,5 +1,5 @@
 variable "digitalocean_token" {
-  description = "The DigitalOcean API token."
+  description = "El token de API de DigitalOcean."
   type        = string
   sensitive   = true
 }
